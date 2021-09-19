@@ -14,3 +14,18 @@
 ![截屏2021-09-19 16 50 10](https://user-images.githubusercontent.com/74129445/133921360-80f52be9-64b1-432d-8acb-99718a062418.png)</br>
 这里我出现了一个疑问，服务器与路由器的区别有什么？明明都是传输数据的，后来发现这个问题很愚蠢，服务器是存储数据，按请求发送数据，路由器是转发数据，根本是两个东西</br></br>
 1.4</br>
+计算机在中国怎么发展的，没啥意思，过</br></br>
+1.5</br></br>
+先讲了计算机网络的定义，就是由可编程硬件（即一定包含CPU）互连而成。</br>
+又讲了几个网络作用范围的的划分</br>
+广域网WAN--跨越国家</br>
+城域网MAN--跨越城市</br>
+局域网LAN--跨越学校企业</br>
+个人区域网PAN--10m以内，也叫WPAN</br>
+这里我有了疑问，什么是个人区域网？与WLAN有什么区别？Wi-Fi又是什么？</br>
+参考：http://blog.sina.com.cn/s/blog_63f3ca740100go7x.html</br>
+https://www.google.com/search?q=WLAN%E4%B8%8EWI-FI%E5%8C%BA%E5%88%AB&oq=WLAN%E4%B8%8EWI-FI%E5%8C%BA%E5%88%AB&aqs=chrome..69i57.7707j0j4&sourceid=chrome&ie=UTF-8</br>
+也就是说，WLAN与WPAN用法差不多，但是更为廉价和高效，而WI-FI是WLAN下的一种技术</br>
+最后讲了一个接入网AN，也就是主机连到本地ISP的第一个路由器（边缘路由器），既不属于边缘部分，也不属于核心部分，是这两者的桥梁。</br>
+1.6</br>
+
