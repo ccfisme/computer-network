@@ -45,4 +45,5 @@ https://www.google.com/search?q=WLAN%E4%B8%8EWI-FI%E5%8C%BA%E5%88%AB&oq=WLAN%E4%
 网络利用率（信道利用率）：就像马路上的车每秒占车道的多少，并且不是越大越好，容易堵塞。网络利用率 = 1 - 网络空闲率</br>
 1.7</br>
 讲的计算机网络架构</br>
+参考：https://blog.csdn.net/qq_38646470/article/details/104913718</br>
 
