@@ -65,6 +65,7 @@
 感觉码分复用是浪费空间的，但不敢确定，所以查了查，还真是</br>
 ![截屏2021-10-06 17 53 09](https://user-images.githubusercontent.com/74129445/136182687-99b4b3b2-846e-4f4d-8aaa-ea960bf4a0aa.png)</br>
 比之前大了好几倍，这个是通过算码片的向量积来确定代表的是0还是1</br>
+参考：https://blog.csdn.net/qq_32863631/article/details/80104535　</br>
 2.5</br>
 讲的是规定了传输的标准</br>
 2.6</br>
