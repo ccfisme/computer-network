@@ -8,4 +8,5 @@
 [知识点](https://zhuanlan.zhihu.com/p/156039802)  
 
 # 主线：  
-![IMG_20211215_234316_edit_1537110975809720](https://user-images.githubusercontent.com/74129445/146218066-052db43d-6613-46ec-981d-bb63af235435.jpg)
+
+![IMG_20211215_234316_edit_1537110975809720](https://user-images.githubusercontent.com/74129445/146218143-70d6a266-e0aa-4a85-ae87-9f2810660580.jpg)
