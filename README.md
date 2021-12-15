@@ -5,4 +5,7 @@
 
 [总路线](https://www.ruanyifeng.com/blog/2012/05/internet_protocol_suite_part_i.html)  
 
-[知识点](https://zhuanlan.zhihu.com/p/156039802)
+[知识点](https://zhuanlan.zhihu.com/p/156039802)  
+
+# 主线：  
+![IMG_20211215_234316_edit_1537110975809720](https://user-images.githubusercontent.com/74129445/146218066-052db43d-6613-46ec-981d-bb63af235435.jpg)
