@@ -9,7 +9,7 @@
 
 ## 分布式长什么样？
 
-具体可以参考这篇文章：https://blog.csdn.net/weixin_42449639/article/details/103376251，里面有好几个比如c/s，或者p2p，或者远程连接的样式，现在主要用一用远程连接  
+具体可以参考这篇文章：https://blog.csdn.net/weixin_42449639/article/details/103376251 ，里面有好几个比如c/s，或者p2p，或者远程连接的样式，现在主要用一用远程连接  
 ![image](https://user-images.githubusercontent.com/74129445/148672218-c1662349-a649-4c15-8e1b-89e8dcfd2217.png)  
 
 
