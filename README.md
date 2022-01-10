@@ -60,7 +60,7 @@ socket 的典型应用就是 Web 服务器和浏览器：浏览器获取用户�
 
 > HTML语言是WWW服务的信息组织形式，用于定义在WWW服务器中存储的信息格式；HTTP是WWW服务使用的应用层协议，用于实现WWW客户机与WWW服务器之间的通信 
 
-[在进行c/s交互时，向服务器请求超链接为get方法，请求表单为post方法。](https://blog.csdn.net/songlixing/article/details/6945083)
+[在进行c/s交互时，客户端向服务器请求超链接为get方法，请求表单为post方法。](https://blog.csdn.net/songlixing/article/details/6945083)
 
 
 
