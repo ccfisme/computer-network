@@ -1,6 +1,13 @@
-# 分布式中的socket
 
-[toc]
+- [分布式中的socket](#-----socket)
+  * [学习原因](#----)
+  * [什么是分布式？](#-------)
+  * [分布式长什么样？](#--------)
+  * [什么是socket?](#---socket-)
+  * [socket与TCP三次握手的关系？](#socket-tcp--------)
+
+<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
+
 
 ## 学习原因
 *写这个笔记的原因是因为实训做的博客中又出现了只在前端就能访问服务器的状况，对于这种请求访问很疑惑，有时候在前端，有时候在后端，还有一个吊毛request对象不知道是啥。后来又学了一个[Python的套接字socket](https://cloud.tencent.com/developer/article/1078620)，让我感觉这是我穿起来网络，把整个客户端服务器连成一个电脑的机会，所以就socket展开学习*  
