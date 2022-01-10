@@ -6,7 +6,6 @@
   * [什么是socket?](#---socket-)
   * [socket与TCP三次握手的关系？](#socket-tcp--------)
 
-<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 
 
 ## 学习原因
