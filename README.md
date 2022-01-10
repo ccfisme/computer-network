@@ -91,6 +91,16 @@ socket 的典型应用就是 Web 服务器和浏览器：浏览器获取用户�
 
 [在进行c/s交互时，客户端向服务器请求超链接为get方法，请求表单为post方法。](https://blog.csdn.net/songlixing/article/details/6945083)
 
+## [客户端服务端交互概述](https://developer.mozilla.org/zh-CN/docs/learn/Server-side/First_steps/Client-Server_overview)  
+
+根据http1.1，服务端不要在完成响应后立即释放连接，所以在进行第一次握手时，用get和post、put、delete等方法来定义请求行为，请求的响应如下。状态码"302 FOUND"告知浏览器，服务端已收到它提交的post请求，然后第二次握手，它必须再发出第二个HTTP请求来加载Location字段中指定的页面。对于其他方面的信息含义，则与GET请求的响应信息类似。然后生成一个[request对象](https://blog.csdn.net/qq_42705210/article/details/92654789)来处理传来的参数，具体处理的函数看文章。  
+
+## 为什么自己电脑连Tomcat变成服务器后生成的网页在客户端只能在局域网连？  
+
+目前太困，不解决，留两篇文章  
+
+- [局域网访问外网](https://network.51cto.com/art/202012/635141.htm)
+- [局域网访问另一个局域网](http://www.icodeguru.com/13/232.html)
 
 
 
