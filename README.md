@@ -1,4 +1,7 @@
-学习视频参考：https://www.bilibili.com/video/BV1ob4y1Y7Ep?p=1&share_medium=android&share_plat=android&share_session_id=50b0e6c5-6796-4e4f-b34d-bdd5113f4b5f&share_source=COPY&share_tag=s_i&timestamp=1641906004&unique_k=DmzCEHB
+- [cookie目的](#cookie--)
+- [session目的](#session--)
+- [token目的](#token--)
+
 
 ## cookie目的
 
@@ -10,4 +13,7 @@
 
 ## token目的  
 
-让服务器用数据库存字符串来进行匹配会出现数据库崩溃的情况，这样就没办法进行匹配，所以就出现了token，浏览器第一次发出请求，用户名密码放在请求信息里，服务器收到，创建token字符串，然后并不保存字符串，而是发给浏览器，让浏览器用cookie或者其他形式存这个token字符串，服务器只存解密方法，然后下一次访问时，浏览器发token字符串，服务器解密，这样就会简单很多，让浏览器存密文字符串。
+让服务器用数据库存字符串来进行匹配会出现数据库崩溃的情况，这样就没办法进行匹配，所以就出现了token，浏览器第一次发出请求，用户名密码放在请求信息里，服务器收到，创建token字符串，然后并不保存字符串，而是发给浏览器，让浏览器用cookie或者其他形式存这个token字符串，服务器只存解密方法，然后下一次访问时，浏览器发token字符串，服务器解密，这样就会简单很多，让浏览器存密文字符串。  
+
+
+学习视频参考：https://www.bilibili.com/video/BV1ob4y1Y7Ep?p=1&share_medium=android&share_plat=android&share_session_id=50b0e6c5-6796-4e4f-b34d-bdd5113f4b5f&share_source=COPY&share_tag=s_i&timestamp=1641906004&unique_k=DmzCEHB
